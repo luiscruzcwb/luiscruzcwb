@@ -13,7 +13,7 @@ I am a systems analyst {infrastructure, site reliability engineering, and cloud}
 
 ## Tools and Technologies
 
-![Alpine Badge](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white]  
+[![Alpine Badge](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)]  
 
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
