@@ -10,7 +10,7 @@
 <img src="https://img.icons8.com/?size=512&id=52515&format=png" width="40" height="40"/> <!-- bash / shell -->
 <img src="https://img.icons8.com/?size=512&id=48213&format=png" width="40" height="40"/> <!-- monitoramento -->
 <img src="https://img.icons8.com/?size=512&id=79061&format=png" width="40" height="40"/> <!-- google cloud -->
-<img src=hhttps://img.icons8.com/?size=512&id=43612&format=png" width="40" height="40"/> <!-- all cloud -->
+<img src="https://img.icons8.com/?size=512&id=43612&format=png" width="40" height="40"/> <!-- all cloud -->
 
 <div>
 <a href ="mailto:contato@luiscruz.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
