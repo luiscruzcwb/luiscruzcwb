@@ -1,17 +1,17 @@
-# Hello, I'm Luis Cruz! 👋
+# Hello, I'm Luis Cruz! :love_you_gesture:
 
-### About me ✍🏼💻
+### About me :bicyclist:
 I am a systems analyst! 
 
 {IT Infrastructure Management, Site Reliability Engineering, and DevOps}.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luiscruzcwb)](https://github.com/luiscruzcwb)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiscruzcwb/)](https://www.linkedin.com/in/luiscruzcwb/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luiscruzcwb)](https://github.com/luiscruzcwb){:target="_blank"}
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiscruzcwb/)](https://www.linkedin.com/in/luiscruzcwb/){:target="_blank"}
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&malito=contato@luiscruz.com.br)](mailto:contato@luiscruz.com.br)
-[![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/luiscruzcwb) 
-[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/luiscruzcwb)
+[![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/luiscruzcwb){:target="_blank"}
+[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/luiscruzcwb){:target="_blank"}
 
-### Skills
+### Skills :technologist:
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Alpine Badge](https://img.shields.io/badge/Alpine_Linux-0D597F?style=flat-square&logo=alpine-linux&logoColor=white)
 ![CentOS Badge](https://img.shields.io/badge/Cent%20OS-262577?style=flat-square&logo=CentOS&logoColor=white)
@@ -39,13 +39,13 @@ I am a systems analyst!
 ## 
 ![Microsoft Badge](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Microsoft Badge](https://img.shields.io/badge/Powershell-2CA5E0?style=flat-square&logo=powershell&logoColor=white)
-![Microsoft Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Microsoft Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Microsoft Badge](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Microsoft Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![Microsoft Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)
+![Microsoft Badge](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 ##
-![Database Badge](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
-![Database Badge](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Database Badge](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=InfluxDB&logoColor=white)
+![Database Badge](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
 ##
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
