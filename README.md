@@ -20,8 +20,6 @@ I am a systems analyst {infrastructure, site reliability engineering, and devops
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Apple Badge](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white)
 
-
-
 ### Skills
 
 ![Pyton Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -31,7 +29,7 @@ I am a systems analyst {infrastructure, site reliability engineering, and devops
 ![GO Badge](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 
-## Cloud
+## 
 ![Amazon AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud Badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
@@ -39,12 +37,10 @@ I am a systems analyst {infrastructure, site reliability engineering, and devops
 ![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Elastic Cloud Badge](https://img.shields.io/badge/elastic%20cloud-005571?style=flat-square&logo=elasticcloud&logoColor=white)
 
-
-
-## Microsoft 
-![Microsoft Badge](https://img.shields.io/badge/Microsoft-666666?style=flat-square&logo=microsoft&logoColor=white)
-![Microsoft Badge](https://img.shields.io/badge/Powershell-2CA5E0?style=flat-square&logo=powershell&logoColor=white)
+## 
 ![Microsoft Badge](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Microsoft Badge](https://img.shields.io/badge/Powershell-2CA5E0?style=flat-square&logo=powershell&logoColor=white)
+
 #
 #<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
 #    <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" alt="GIF">
