@@ -5,11 +5,11 @@ I am a systems analyst!
 
 {IT Infrastructure Management, Site Reliability Engineering, and DevOps}.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luiscruzcwb)](https://github.com/luiscruzcwb){:target="_blank"}
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiscruzcwb/)](https://www.linkedin.com/in/luiscruzcwb/){:target="_blank"}
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luiscruzcwb)](https://github.com/luiscruzcwb)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiscruzcwb/)](https://www.linkedin.com/in/luiscruzcwb/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&malito=contato@luiscruz.com.br)](mailto:contato@luiscruz.com.br)
-[![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/luiscruzcwb){:target="_blank"}
-[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/luiscruzcwb){:target="_blank"}
+[![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/luiscruzcwb)
+[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/luiscruzcwb)
 
 ### Skills :technologist:
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
