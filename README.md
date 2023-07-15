@@ -1,7 +1,9 @@
 # Hello, I'm Luis Cruz! 👋
 
 ### About me ✍🏼💻
-I am a systems analyst {IT Infrastructure Management, Site Reliability Engineering, and DevOps}.
+I am a systems analyst! 
+
+{IT Infrastructure Management, Site Reliability Engineering, and DevOps}.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luiscruzcwb)](https://github.com/luiscruzcwb)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiscruzcwb/)](https://www.linkedin.com/in/luiscruzcwb/)
@@ -19,7 +21,6 @@ I am a systems analyst {IT Infrastructure Management, Site Reliability Engineeri
 ![Apple Badge](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white)
 
 ##
-
 ![Pyton Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white)
@@ -38,8 +39,15 @@ I am a systems analyst {IT Infrastructure Management, Site Reliability Engineeri
 ## 
 ![Microsoft Badge](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Microsoft Badge](https://img.shields.io/badge/Powershell-2CA5E0?style=flat-square&logo=powershell&logoColor=white)
+![Microsoft Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Microsoft Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Microsoft Badge](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
+##
+![Database Badge](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
+![Database Badge](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
+##
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
     <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="450" alt="GIF">
 </div>
