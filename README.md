@@ -35,12 +35,11 @@ I am a systems analyst {infrastructure, site reliability engineering, and devops
 ![Amazon AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud Badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![NAME Badge](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
-![NAME Badge](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![NAME Badge](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
-![NAME Badge](https://img.shields.io/badge/elastic%20cloud-005571?style=flat-square&logo=elasticcloud&logoColor=white)
-![NAME Badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![NAME Badge](https://img.shields.io/badge/microsoft%20azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure DevOps Badge](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
+![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+![Elastic Cloud Badge](https://img.shields.io/badge/elastic%20cloud-005571?style=flat-square&logo=elasticcloud&logoColor=white)
+
+
 
 ## Microsoft 
 #https://img.shields.io/badge/Microsoft-666666?style=flat-square&logo=microsoft&logoColor=white
