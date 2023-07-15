@@ -41,6 +41,6 @@ I am a systems analyst {IT Infrastructure Management, Site Reliability Engineeri
 
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="400" alt="GIF">
+    <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="300" alt="GIF">
 </div>
 
