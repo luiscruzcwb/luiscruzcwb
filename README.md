@@ -1,7 +1,7 @@
 # Hello, I'm Luis Cruz! :love_you_gesture:
 
 ### About me :bicyclist:
-I am a systems analyst! 
+I am a Senior Infrastructure Analyst 
 
 {IT Infrastructure Management, Site Reliability Engineering, and DevOps}.
 
