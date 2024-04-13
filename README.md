@@ -1,9 +1,7 @@
 # Hello, I'm Luis Cruz! :love_you_gesture:
 
 ### About me :bicyclist:
-I am a Senior Infrastructure Analyst 
-
-{IT Infrastructure Management, Site Reliability Engineering, and DevOps}.
+Analista de Infraestrutura com foco em DevOps & SysOps | AWS | Microsoft Azure | Google Cloud | IaC | Terraform | Ansible | Docker | Kubernetes | Prometheus | Zabbix
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luiscruzcwb)](https://github.com/luiscruzcwb)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiscruzcwb/)](https://www.linkedin.com/in/luiscruzcwb/)
@@ -39,7 +37,6 @@ I am a Senior Infrastructure Analyst
 ## 
 ![Microsoft Badge](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Microsoft Badge](https://img.shields.io/badge/Powershell-2CA5E0?style=flat-square&logo=powershell&logoColor=white)
-![Microsoft Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 ![Microsoft Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)
 ![Microsoft Badge](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
@@ -47,8 +44,9 @@ I am a Senior Infrastructure Analyst
 ![Database Badge](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=InfluxDB&logoColor=white)
 ![Database Badge](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
-##
+## Gif
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
     <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="450" alt="GIF">
 </div>
 
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/JIX9t2j0ZTN9S">via GIPHY</a></p>
