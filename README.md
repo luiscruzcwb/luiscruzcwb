@@ -46,7 +46,7 @@ Analista de Infraestrutura com foco em DevOps & SysOps | AWS | Microsoft Azure |
 
 ## 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src="https://github.com/luiscruzcwb/luiscruzcwb/blob/main/giphy.gif?raw=true" width="900" height="450" alt="GIF">
+    <img src="https://github.com/luiscruzcwb/luiscruzcwb/blob/main/code2.gif?raw=true" width="900" height="450" alt="GIF">
 </div>
 
 
