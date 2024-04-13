@@ -3,10 +3,10 @@
 ### About me :bicyclist:
 *Analista de Infraestrutura com foco em DevOps & SysOps* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LuisCruz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiscruzcwb/)
+- 📫 Como chegar até mim: &nbsp; 
+[![Linkedin Badge](https://img.shields.io/badge/-LuisCruz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiscruzcwb/)
+<br>
+[![Medium Badge](https://img.shields.io/badge/-LuisCruz-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@luiscruzcwb)
 
 ### 🛠 &nbsp;Languages and Tools :
 
