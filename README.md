@@ -26,7 +26,7 @@
 ![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Elastic Cloud Badge](https://img.shields.io/badge/elastic%20cloud-005571?style=flat-square&logo=elasticcloud&logoColor=white)
 
-## OS Microsoft Skills :Desktop Computer: 
+## OS Microsoft Skills
 ![Microsoft Badge](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Microsoft Badge](https://img.shields.io/badge/Powershell-2CA5E0?style=flat-square&logo=powershell&logoColor=white)
 ![Microsoft Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)
@@ -49,7 +49,3 @@
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
     <img src="https://github.com/luiscruzcwb/luiscruzcwb/blob/main/code2.gif?raw=true" width="900" height="450" alt="GIF">
 </div>
-
-
-
-
