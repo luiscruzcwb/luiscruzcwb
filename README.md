@@ -5,7 +5,6 @@
 
 - 📫 Como chegar até mim: &nbsp; 
 [![Linkedin Badge](https://img.shields.io/badge/-LuisCruz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiscruzcwb/)
-<br>
 [![Medium Badge](https://img.shields.io/badge/-LuisCruz-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@luiscruzcwb)
 
 ### 🛠 &nbsp;Languages and Tools :
