@@ -1,9 +1,18 @@
 # Hello, I'm Luis Cruz! :love_you_gesture:
-# Olá, aqui é o Luis Cruz! :love_you_gesture:
 
-### About me :bicyclist:
-### Sobre mim :bicyclist:
-Analista de Infraestrutura com foco em DevOps & SysOps | AWS | Microsoft Azure | Google Cloud | IaC | Terraform | Ansible | Docker | Kubernetes | Prometheus | Zabbix
+### About me / Sobre mim :bicyclist:
+Analista de Infraestrutura com foco em DevOps & SysOps 
+
+- AWS
+- Google Cloud
+- Microsoft Azure
+- IaC
+- Terraform
+- Ansible
+- Docker
+- Kubernetes 
+- Prometheus 
+- Zabbix
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luiscruzcwb)](https://github.com/luiscruzcwb)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiscruzcwb/)](https://www.linkedin.com/in/luiscruzcwb/)
