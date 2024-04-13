@@ -17,7 +17,7 @@ Analista de Infraestrutura com foco em DevOps & SysOps
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luiscruzcwb)](https://github.com/luiscruzcwb)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiscruzcwb/)](https://www.linkedin.com/in/luiscruzcwb/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&malito=contato@luiscruz.com.br)](mailto:contato@luiscruz.com.br)
-[![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/luiscruzcwb)
+[![Medium Badge](https://img.shields.io/badge/medium-0A0A0A?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@luiscruzcwb)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/luiscruzcwb)
 
 ### OS Linux Skills :technologist:
