@@ -44,9 +44,13 @@ Analista de Infraestrutura com foco em DevOps & SysOps | AWS | Microsoft Azure |
 ![Database Badge](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=InfluxDB&logoColor=white)
 ![Database Badge](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
-## Gif
+## 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
     <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="450" alt="GIF">
 </div>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/JIX9t2j0ZTN9S">via GIPHY</a></p>
+https://giphy.com/embed/JIX9t2j0ZTN9S
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <img src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="900" height="450" alt="GIF">
+</div>
