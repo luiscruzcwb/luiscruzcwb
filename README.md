@@ -9,8 +9,11 @@
 </a>
 <br>
 <a href="https://medium.com/@luiscruzcwb" target="_blank">
-  <img src="https://img.shields.io/badge/-LuisCruz-black?style=flat&logo=Medium&logoColor=white" alt="Linkedin Badge">
+  <img src="https://img.shields.io/badge/-LuisCruz-black?style=flat&logo=Medium&logoColor=white" alt="Medium Badge">
 </a>
+<br>
+<a href="https://luiscruz.com.br/" target="_blank">
+  <img src=https://img.shields.io/badge/-luisruz.com.br-black?style=flat&logo=Google&logoColor=white" alt="LuisCruz Badge">
 
 ### Languages and Tools 🛠 &nbsp;
 <br>
