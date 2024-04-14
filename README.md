@@ -13,7 +13,7 @@
 </a>
 <br>
 <a href="https://luiscruz.com.br/" target="_blank">
-  <img src=https://img.shields.io/badge/-luisruz.com.br-black?style=flat&logo=Google&logoColor=white" alt="LuisCruz Badge">
+  <img src=https://img.shields.io/badge/-luisruz.com.br-black?style=flat&logo=Google&logoColor=white" alt="Google Badge">
 
 ### Languages and Tools 🛠 &nbsp;
 <br>
