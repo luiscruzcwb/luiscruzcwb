@@ -4,7 +4,8 @@
 *Analista de Infraestrutura com foco em DevOps & SysOps* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 📫 Como chegar até mim: &nbsp; 
-[![Linkedin Badge](https://img.shields.io/badge/-LuisCruz-blue?style=flat&logo=Linkedin&logoColor=white=target="_blank")](https://www.linkedin.com/in/luiscruzcwb/) // [![Medium Badge](https://img.shields.io/badge/-LuisCruz-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@luiscruzcwb)
+[![Linkedin Badge](https://img.shields.io/badge/-LuisCruz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiscruzcwb/){:target="_blank"}
+[![Medium Badge](https://img.shields.io/badge/-LuisCruz-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@luiscruzcwb){:target="_blank"}
 <br>
 ### 🛠 &nbsp;Languages and Tools :
 <br>
