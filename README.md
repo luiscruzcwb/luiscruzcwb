@@ -12,19 +12,7 @@
   <img src="https://img.shields.io/badge/-LuisCruz-black?style=flat&logo=Medium&logoColor=white" alt="Linkedin Badge">
 </a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LuisCruz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiscruzcwb/)
-
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  const links = document.querySelectorAll('a[href^="http"]');
-  links.forEach(link => {
-    link.setAttribute('target', '_blank');
-    link.setAttribute('rel', 'noopener noreferrer');
-  });
-});
-</script>
-
-### Languages and Tools :🛠 &nbsp;
+### Languages and Tools 🛠 &nbsp;
 <br>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
@@ -44,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <br>
 
-### ✍️ Blog Posts : 
+### Blog Posts ✍️  
 - [AWS - Automatizando a Migração de Usuários e Otimizando o Gerenciamento de IAM](https://medium.com/@luiscruzcwb/automatizando-a-migra%C3%A7%C3%A3o-de-usu%C3%A1rios-e-otimizando-o-gerenciamento-de-iam-na-aws-607c975d7bc9)
 
 ##
