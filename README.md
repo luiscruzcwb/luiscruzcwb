@@ -4,12 +4,12 @@
 *Analista de Infraestrutura com foco em DevOps & SysOps* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 📫 Como chegar até mim: &nbsp; 
-[![Linkedin Badge](https://img.shields.io/badge/-LuisCruz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiscruzcwb/) - [![Medium Badge](https://img.shields.io/badge/-LuisCruz-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@luiscruzcwb)
+[![Linkedin Badge](https://img.shields.io/badge/-LuisCruz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiscruzcwb/) || [![Medium Badge](https://img.shields.io/badge/-LuisCruz-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@luiscruzcwb)
 
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="GCP" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-plain.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
@@ -19,12 +19,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="ELK" alt="ELK" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original-wordmark.svg" title="Portainer" alt="Portainer" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original-wordmark.svg" title="Cloudflare" alt="Cloudflare" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/traefikproxy/traefikproxy-original-wordmark.svg" title="TraefikProxy" alt="TraefikProxy" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pfsense/pfsense-original.svg" title="pfSense" alt="pfSense" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+
 
 ### ✍️ Blog Posts : 
 - [AWS - Automatizando a Migração de Usuários e Otimizando o Gerenciamento de IAM](https://medium.com/@luiscruzcwb/automatizando-a-migra%C3%A7%C3%A3o-de-usu%C3%A1rios-e-otimizando-o-gerenciamento-de-iam-na-aws-607c975d7bc9)
