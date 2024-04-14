@@ -8,8 +8,10 @@
   <img src="https://img.shields.io/badge/-LuisCruz-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
 </a>
 
-[![Medium Badge](https://img.shields.io/badge/-LuisCruz-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@luiscruzcwb){:target="_blank"}
-<br>
+<a href="https://medium.com/@luiscruzcwb" target="_blank">
+  <img src="https://img.shields.io/badge/-LuisCruz-black?style=flat&logo=Medium&logoColor=white" alt="Linkedin Badge">
+</a>
+
 ### 🛠 &nbsp;Languages and Tools :
 <br>
 <p>
