@@ -5,9 +5,9 @@
 
 - 📫 Como chegar até mim: &nbsp; 
 [![Linkedin Badge](https://img.shields.io/badge/-LuisCruz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiscruzcwb/) // [![Medium Badge](https://img.shields.io/badge/-LuisCruz-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@luiscruzcwb)
-
+<br>
 ### 🛠 &nbsp;Languages and Tools :
-
+<br>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="GCP" width="50" height="50"/>&nbsp;
@@ -24,13 +24,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/pfsense/pfsense-original.svg" title="pfSense" alt="pfSense" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-
+<br>
 
 ### ✍️ Blog Posts : 
 - [AWS - Automatizando a Migração de Usuários e Otimizando o Gerenciamento de IAM](https://medium.com/@luiscruzcwb/automatizando-a-migra%C3%A7%C3%A3o-de-usu%C3%A1rios-e-otimizando-o-gerenciamento-de-iam-na-aws-607c975d7bc9)
 
 ##
-
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
 <!-- <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
