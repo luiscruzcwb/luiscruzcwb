@@ -12,7 +12,19 @@
   <img src="https://img.shields.io/badge/-LuisCruz-black?style=flat&logo=Medium&logoColor=white" alt="Linkedin Badge">
 </a>
 
-### 🛠 &nbsp;Languages and Tools :
+[![Linkedin Badge](https://img.shields.io/badge/-LuisCruz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiscruzcwb/)
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const links = document.querySelectorAll('a[href^="http"]');
+  links.forEach(link => {
+    link.setAttribute('target', '_blank');
+    link.setAttribute('rel', 'noopener noreferrer');
+  });
+});
+</script>
+
+### Languages and Tools :🛠 &nbsp;
 <br>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
