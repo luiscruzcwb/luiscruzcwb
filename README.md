@@ -1,7 +1,5 @@
 # Hello, I'm Luis Cruz! :love_you_gesture:
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-
 ### About me :bicyclist:
 *Analista de Infraestrutura com foco em DevOps & SysOps* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -31,7 +29,11 @@
 ### ✍️ Blog Posts : 
 - [AWS - Automatizando a Migração de Usuários e Otimizando o Gerenciamento de IAM](https://medium.com/@luiscruzcwb/automatizando-a-migra%C3%A7%C3%A3o-de-usu%C3%A1rios-e-otimizando-o-gerenciamento-de-iam-na-aws-607c975d7bc9)
 
-## 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+##
+
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+
+<!-- <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
     <p align="center"><img src="https://github.com/luiscruzcwb/luiscruzcwb/blob/main/code2.gif?raw=true" width="950" height="450" alt="GIF"></p>
 </div>
+-->
