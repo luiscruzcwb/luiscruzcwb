@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/luiscruzcwb/" target="_blank">
   <img src="https://img.shields.io/badge/-LuisCruz-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
 </a>
-
+<br>
 <a href="https://medium.com/@luiscruzcwb" target="_blank">
   <img src="https://img.shields.io/badge/-LuisCruz-black?style=flat&logo=Medium&logoColor=white" alt="Linkedin Badge">
 </a>
