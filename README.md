@@ -12,9 +12,6 @@
   <a href="https://dev.to/luiscruzcwb" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to">
   </a>
-  <a href="https://medium.com/@luiscruzcwb" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
   <a href="https://luiscruz.com.br/" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
   </a>
@@ -28,7 +25,7 @@ Atuo com **infraestrutura e DevOps**, com foco em transformar ambientes manuais 
 
 - 🔭 Trabalhando com **IaC** (Terraform/Ansible), **observabilidade** (Prometheus, Grafana, Zabbix) e **gestão de segredos** (Vault).
 - 🏠 Mantenho um cluster **Proxmox** automatizado de ponta a ponta — provisionamento, configuração e deploy declarativos.
-- ✍️ Escrevo sobre essas experiências no [dev.to](https://dev.to/luiscruzcwb) e no [Medium](https://medium.com/@luiscruzcwb).
+- ✍️ Escrevo sobre essas experiências no [dev.to/luiscruzcwb](https://dev.to/luiscruzcwb).
 - 📫 Contato: **contato@luiscruz.com.br**
 
 ---
@@ -88,21 +85,30 @@ Atuo com **infraestrutura e DevOps**, com foco em transformar ambientes manuais 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luiscruzcwb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiscruzcwb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luiscruzcwb&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" height="200">
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" height="200">
 </p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" height="200">
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" height="200">
+</p>
+
+<sub align="center">📌 Cards gerados automaticamente via GitHub Actions — sempre disponíveis, sem depender de serviços externos.</sub>
 
 ---
 
-### ✍️ Últimos artigos
+### ✍️ Blog
 
-- [AWS — Automatizando a Migração de Usuários e Otimizando o Gerenciamento de IAM](https://medium.com/@luiscruzcwb/automatizando-a-migra%C3%A7%C3%A3o-de-usu%C3%A1rios-e-otimizando-o-gerenciamento-de-iam-na-aws-607c975d7bc9)
+📚 Escrevo sobre infraestrutura, DevOps e homelab em **[dev.to/luiscruzcwb](https://dev.to/luiscruzcwb)**.
 
-> 📚 Mais conteúdo em [dev.to/luiscruzcwb](https://dev.to/luiscruzcwb)
+<a href="https://dev.to/luiscruzcwb" target="_blank">
+  <img src="https://img.shields.io/badge/Ler%20no%20dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to">
+</a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=luiscruzcwb&style=flat&color=blue" alt="Profile views">
