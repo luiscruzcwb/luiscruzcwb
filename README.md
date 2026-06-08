@@ -1,47 +1,109 @@
-# Hello, I'm Luis Cruz! :love_you_gesture:
+<h1 align="center">Olá, eu sou o Luis Cruz 👋</h1>
 
-### About me :bicyclist:
-*Analista de Infraestrutura com foco em DevOps & SysOps* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p align="center">
+  <b>Analista de Infraestrutura · DevOps & SRE</b><br>
+  <sub>Infraestrutura como Código · GitOps · Observabilidade · Automação de Homelab</sub>
+</p>
 
-- 📫 Como chegar até mim: &nbsp; 
-<a href="https://www.linkedin.com/in/luiscruzcwb/" target="_blank">
-  <img src="https://img.shields.io/badge/-LuisCruz-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
-</a>
-<br>
-<a href="https://medium.com/@luiscruzcwb" target="_blank">
-  <img src="https://img.shields.io/badge/-LuisCruz-black?style=flat&logo=Medium&logoColor=white" alt="Medium Badge">
-</a>
-<br>
-<a href="https://luiscruz.com.br/" target="_blank">
-  <img src="https://img.shields.io/badge/-luisruz.com.br-black?style=flat&logo=Google&logoColor=white" alt="Luis Cruz Badge">
+<p align="center">
+  <a href="https://www.linkedin.com/in/luiscruzcwb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://dev.to/luiscruzcwb" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to">
+  </a>
+  <a href="https://medium.com/@luiscruzcwb" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+  <a href="https://luiscruz.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+</p>
 
-### Languages and Tools 🛠 &nbsp;
-<br>
+---
+
+### 🚀 Sobre mim
+
+Atuo com **infraestrutura e DevOps**, com foco em transformar ambientes manuais em pipelines **automatizados, versionados e observáveis**. Boa parte do que estudo nasce e é validado no meu **homelab Proxmox**, gerido inteiramente via **GitOps** (Terraform + Ansible + GitHub Actions).
+
+- 🔭 Trabalhando com **IaC** (Terraform/Ansible), **observabilidade** (Prometheus, Grafana, Zabbix) e **gestão de segredos** (Vault).
+- 🏠 Mantenho um cluster **Proxmox** automatizado de ponta a ponta — provisionamento, configuração e deploy declarativos.
+- ✍️ Escrevo sobre essas experiências no [dev.to](https://dev.to/luiscruzcwb) e no [Medium](https://medium.com/@luiscruzcwb).
+- 📫 Contato: **contato@luiscruz.com.br**
+
+---
+
+### 🛠️ Stack & Ferramentas
+
+**Cloud & Virtualização**
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="GCP" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-plain.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="K8S" alt="K8S" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" alt="Vagrant" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="ELK" alt="ELK" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original.svg" title="Portainer" alt="Portainer" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original-wordmark.svg" title="Cloudflare" alt="Cloudflare" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pfsense/pfsense-original.svg" title="pfSense" alt="pfSense" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+</p>
 
-### Blog Posts ✍️  
-- [AWS - Automatizando a Migração de Usuários e Otimizando o Gerenciamento de IAM](https://medium.com/@luiscruzcwb/automatizando-a-migra%C3%A7%C3%A3o-de-usu%C3%A1rios-e-otimizando-o-gerenciamento-de-iam-na-aws-607c975d7bc9)
+**Infraestrutura como Código & Automação**
+<p>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white">
+  <img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat&logo=vault&logoColor=black">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
+</p>
 
-##
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+**Containers**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white">
+</p>
 
-<!-- <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <p align="center"><img src="https://github.com/luiscruzcwb/luiscruzcwb/blob/main/code2.gif?raw=true" width="950" height="450" alt="GIF"></p>
-</div>
--->
+**Observabilidade**
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat&logo=zabbix&logoColor=white">
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white">
+</p>
+
+**Redes & Segurança**
+<p>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white">
+  <img src="https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white">
+  <img src="https://img.shields.io/badge/AdGuard-68BC71?style=flat&logo=adguard&logoColor=white">
+</p>
+
+---
+
+### 📌 Projetos em destaque
+
+| Projeto | Descrição |
+|---------|-----------|
+| 🏗️ [homelab-infrastructure-template](https://github.com/luiscruzcwb/homelab-infrastructure-template) | Template de automação Proxmox com **GitOps**, Terraform e GitHub Actions |
+| 📊 [pve-homelab-monitoramento](https://github.com/luiscruzcwb/pve-homelab-monitoramento) | Stack de **observabilidade** (Prometheus + Grafana + InfluxDB) provisionada via IaC |
+| 🔐 [pve-homelab-grav-cms](https://github.com/luiscruzcwb/pve-homelab-grav-cms) | Deploy de CMS com gestão segura de segredos via **HashiCorp Vault** |
+| 🧭 [case-sre-observabilidade](https://github.com/luiscruzcwb/case-sre-observabilidade) | Case study **SRE**: SLOs, resposta a incidente e FinOps |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luiscruzcwb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiscruzcwb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luiscruzcwb&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
+
+---
+
+### ✍️ Últimos artigos
+
+- [AWS — Automatizando a Migração de Usuários e Otimizando o Gerenciamento de IAM](https://medium.com/@luiscruzcwb/automatizando-a-migra%C3%A7%C3%A3o-de-usu%C3%A1rios-e-otimizando-o-gerenciamento-de-iam-na-aws-607c975d7bc9)
+
+> 📚 Mais conteúdo em [dev.to/luiscruzcwb](https://dev.to/luiscruzcwb)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luiscruzcwb&style=flat&color=blue" alt="Profile views">
+</p>
